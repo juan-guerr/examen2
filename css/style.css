@@ -54,3 +54,7 @@ footer #copy{
 	background-color: var(--color-naranja);
 	padding: 5px;
 }
+
+.tarjeta{
+	background-color: var (--color-negro);
+}
